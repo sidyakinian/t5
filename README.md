@@ -6,6 +6,13 @@ The T5 transformer model is a natural language processing model developed by Goo
 
 This repository implements T5 using two deep learning frameworks: PyTorch and JAX. The goal of this project is to provide a simple example of a working transformer implementation.
 
+### How to run the models
+
+1. Navigate to `pytorch` or `jax` folder and open the T5 notebook you'd like to run.
+2. In your browser address bar, change `github.com` in address to `githubtocolab.com`.
+3. Make sure to download the weights and upload them to your Google Drive.
+4. Run the notebook!
+
 ### Credits
 
 * [Useful article](https://e2eml.school/transformers.html#rest_stop) for understanding transformers.
