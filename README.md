@@ -15,5 +15,5 @@ This repository implements T5 using two deep learning frameworks: PyTorch and JA
 
 ### Credits
 
-* [Useful article](https://e2eml.school/transformers.html#rest_stop) for understanding transformers.
-* HuggingFace implementations of T5 have been very helpful.
+- [Useful article](https://e2eml.school/transformers.html#rest_stop) for understanding transformers.
+- HuggingFace implementations of T5 have been very helpful.
